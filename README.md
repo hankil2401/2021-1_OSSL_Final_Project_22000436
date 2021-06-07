@@ -4,7 +4,7 @@
 - This project is the combination of many type of converter, from length, to temperature, weight, speed, time.
 
 <h1>2. Why is this project useful?</h1>
-- This project can help people easier and faster to convert the measurement unit just by giving the original value and measurement and the willing measurement.
+- This project can help people easier and faster to convert the measurement unit just by giving the original value and measurement and the willing measurement.<br/>
 - For example, m to km is easy, but if the converting is degree Celsius to degree Fahrenheit, it will need a little bit more complicated equation. But with this converter project, everything will be calculated very fast and give out the result in a (few) second.
 
 <h1>3. How to get started, or use this project?</h1>
