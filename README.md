@@ -16,5 +16,5 @@ Step 5: Then it will ask you to enter the measurement unit you want to be the re
 Step 6: It will continually ask until you type "0 done" when it ask for inital value and measurement.<br/>
 
 <h1>4. For some help</h1>
-You can contact me through email 22000436@handong.edu 
+You can contact me through email <a href="mailto:22000436@handong.edu">22000436@handong.edu</a> 
 Thank you for having interest in my project.
