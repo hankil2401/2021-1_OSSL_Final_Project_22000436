@@ -5,7 +5,7 @@
 
 <h1>2. Why is this project useful?</h1>
 - This project can help people convert faster just by giving the original value and measurement and the willing measurement.<br/>
-- Since 
+- Maybe some of them are easy to convert, but some have quite complicated equations, but by this converter, it will give out the result just after who enter the input. 
 
 <h1>3. How to get started, or use this project?</h1>
 Step 1: Clone this project in to your own repository.<br/>
