@@ -72,6 +72,4 @@ int main() {
 		printf("\tThe result is: %g %s\n", resultValue, resultMeasurement);
 		printf("If the result is 0, it means you type in wrong unit from what is mentions at first\n\n");
 	}
-		printf("Thank you for having interest in my project and listen to my video\n");
-		printf("Have a nice day!!");
 }
