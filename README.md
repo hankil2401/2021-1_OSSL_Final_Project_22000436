@@ -1,7 +1,9 @@
 # 2021-1_OSSL_Final_Project_22000436
 
 <h1>1. What does this project do?</h1>
-- This project is the combination of many type of converter for length, temperature, weight, speed, time.
+- This project is the combination of many types of converter for Length, Temperature, Weight, Speed, Time.
+<br/>
+- The program reads inputs from the users and calculate the result. Then it will shows the result.
 
 <h1>2. Why is this project useful?</h1>
 - This project can help people convert faster just by giving the original value and measurement and the willing measurement.<br/>
